@@ -138,6 +138,7 @@ if (fue != null || des != null || con != null || intt != null || sab != null || 
 int[] personalizada = { nfue - mod[0], ndes - mod[1], ncon - mod[2], nint - mod[3], nsab - mod[4], ncar - mod[5] };
 %>
 <body>
+<!--  Esta es la nueva modificacion -->
 	<h1>Crea carta</h1>
 	<form>
 		<p>Quin es el teu nom?</p>
