@@ -138,6 +138,14 @@ if (fue != null || des != null || con != null || intt != null || sab != null || 
 int[] personalizada = { nfue - mod[0], ndes - mod[1], ncon - mod[2], nint - mod[3], nsab - mod[4], ncar - mod[5] };
 %>
 <body>
+	<div>
+		<form>
+			<input type="checkbox" value="huma">Soc humà</input>
+			<input type="checkbox" value="robot">Soc robot</input>	
+			<br>
+			<input type="submit" value="Envia">
+		</form>
+	</div>
 	<h1>Crea carta</h1>
 	<form>
 		<p>Quin es el teu nom?</p>
